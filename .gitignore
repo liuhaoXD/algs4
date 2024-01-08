@@ -56,3 +56,4 @@ atlassian-ide-plugin.xml
 # files intended to be ignored
 *IGNORE
 algs4-data/
+*.pdf
